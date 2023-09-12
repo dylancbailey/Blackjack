@@ -20,8 +20,9 @@ body {
 h1 {
     color: goldenrod;
     padding-top: 1.5rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2.5rem;
     font-size: 3.5rem;
+    text-shadow: black 2px 2px 20px;
 }
 
 #message-el {
